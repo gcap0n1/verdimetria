@@ -18,7 +18,7 @@ requests-oauthlib==2.0.0 # OAuth per la Process API (dati quantitativi puliti)
 oauthlib==3.2.2
 
 # Backend web e persistenza
-Django==6.0.7
+Django==6.0.8
 gunicorn==23.0.0
 djangorestframework==3.17.1
 djangorestframework-simplejwt==5.5.1
